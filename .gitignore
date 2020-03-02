@@ -35,3 +35,17 @@ msbuild.wrn
 
 # Visual Studio 2015
 .vs/
+.vscode/tasks.json
+DatingApp.API/bin/
+DatingApp.API/obj/
+DatingApp.API/bin/Debug/netcoreapp3.1/DatingApp.API.dll
+DatingApp.API/bin/Debug/netcoreapp3.1/DatingApp.API.pdb
+DatingApp.API/bin/Debug/netcoreapp3.1/DatingApp.API.runtimeconfig.dev.json
+DatingApp.API/obj/project.assets.json
+DatingApp.API/obj/Debug/netcoreapp3.1/DatingApp.API.AssemblyInfo.cs
+DatingApp.API/obj/Debug/netcoreapp3.1/DatingApp.API.assets.cache
+DatingApp.API/obj/Debug/netcoreapp3.1/DatingApp.API.csproj.FileListAbsolute.txt
+DatingApp.API/obj/Debug/netcoreapp3.1/DatingApp.API.csprojAssemblyReference.cache
+DatingApp.API/obj/Debug/netcoreapp3.1/DatingApp.API.dll
+DatingApp.API/obj/Debug/netcoreapp3.1/DatingApp.API.pdb
+DatingApp.API/obj/Debug/netcoreapp3.1/project.razor.json
