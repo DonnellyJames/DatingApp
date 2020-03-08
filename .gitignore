@@ -7,6 +7,9 @@ nupkg/
 
 # Visual Studio Code
 .vscode
+bin
+obj
+*.db
 
 # Rider
 .idea
